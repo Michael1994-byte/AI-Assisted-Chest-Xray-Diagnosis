@@ -1,0 +1,4 @@
+Model,Mean AUROC,Mean PR-AUC
+Simple CNN,0.6741,Not calculated
+ResNet18,0.734,0.1876
+VGG19,0.6674,0.1228
