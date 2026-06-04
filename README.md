@@ -235,31 +235,14 @@ Lowest Performing Disease:
 * NVIDIA T4 GPU
 
 ---
+## Repository Contents
 
-## Repository Structure
-
-```text
-AI-Assisted-Chest-Xray-Diagnosis/
-│
-├── notebooks/
-│   └── AI_Assisted_ChestXray.ipynb
-│
-├── models/
-│   ├── simple_cnn.pth
-│   ├── resnet18_chestxray.pth
-│   └── vgg19_chestxray.pth
-│
-├── results/
-│   ├── resnet18_results.csv
-│   ├── model_comparison_summary.csv
-│   └── gradcam_example.png
-│
-├── report/
-│   └── AI_Assisted_Chest_Xray_Report.pdf
-│
-└── README.md
-```
-
+- AI_Assisted_ChestXray.ipynb
+- AI-Assisted Chest X-ray Interpretation.pdf
+- gradcam_example.png
+- resnet18_results.csv
+- model_comparison_summary.csv
+- README.md
 ---
 
 ## Conclusion
