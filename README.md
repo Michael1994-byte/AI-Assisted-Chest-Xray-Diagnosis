@@ -238,7 +238,7 @@ Lowest Performing Disease:
 ## Repository Contents
 
 - AI_Assisted_ChestXray.ipynb
-- AI-Assisted Chest X-ray Interpretation.pdf
+- AI_Assisted_Chest_Xray_Report.pdf
 - gradcam_example.png
 - resnet18_results.csv
 - model_comparison_summary.csv
